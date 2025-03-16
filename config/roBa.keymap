@@ -60,10 +60,10 @@
 
         ARROW_NUM {
             bindings = <
-&trans  &trans  &trans  &trans  &trans                       &kp F1              &kp DELETE      &kp UP_ARROW    &kp BACKSPACE    &kp F5
-&trans  &trans  &trans  &trans  &trans  &trans      &kp F13  &kp LG(LEFT_ARROW)  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &kp LG(RIGHT_ARROW)
-&trans  &trans  &trans  &trans  &trans  &trans      &trans   &trans              &trans          &trans          &trans           &kp F11
-&trans  &trans  &trans  &trans  &trans  &trans      &trans   &trans                                                               &kp F12
+&trans        &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &trans                       &kp F1              &kp DELETE      &kp UP_ARROW    &kp BACKSPACE    &kp F5
+&kp NUMBER_0  &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &trans  &trans      &kp F13  &kp LG(LEFT_ARROW)  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &kp LG(RIGHT_ARROW)
+&trans        &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &trans  &trans      &trans   &trans              &trans          &trans          &trans           &kp F11
+&trans        &trans        &trans        &trans        &trans  &trans      &trans   &trans                                                               &kp F12
             >;
         };
 
